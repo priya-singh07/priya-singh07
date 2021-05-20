@@ -1,4 +1,4 @@
-### Hi there, I'm Priya 👋
+### Hi there, I'm Priya
 #### Sophomore at NIT Jamshedpur
 
 <!--
