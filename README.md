@@ -1,5 +1,5 @@
 ### Hi there, I'm Priya
-#### Sophomore at NIT Jamshedpur
+
 
 <!--
 **priya-singh07/priya-singh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
