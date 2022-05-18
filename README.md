@@ -2,10 +2,10 @@
 <h3 align="center">Welcome to my GitHub Profile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-singh07&label=Profile%20views&color=0e75b6&style=flat" alt="priya-singh07" /> </p>
 
-- 🌱 I’m currently learning: **Data Structures and Algorithms.
-- 👯 I’m looking to collaborate with **like minded people.
-- 🤝 I’m looking for help in **building Web Development projects.
-- 💬 Ask me about anything, **I'd love to help you if I can.
+- 🌱 I’m currently learning: **Data Structures and Algorithms.**
+- 👯 I’m looking to collaborate with **like minded people.**
+- 🤝 I’m looking for help in **building Web Development projects.**
+- 💬 Ask me about anything, **I'd love to help you if I can.**
 - 📫 How to reach me: **priyapragya0710@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
