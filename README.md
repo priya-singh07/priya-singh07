@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priya-singh-1b3124201" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-singh-1b3124201" height="30" width="40" /></a>
-<!-- <a href="https://www.facebook.com/profile.php?id=100041087550369" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100041087550369" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/priya_07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priya_07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/priya_singh07" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priya_singh07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_priya07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priya07" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@priya2470" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priya2470" height="30" width="40" /></a>
