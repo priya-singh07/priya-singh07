@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning: Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with like minded people.
-- 🤝 I’m looking for help in Competitive Programming.
-- 💬 Ask me about anything, I'd love to help if I could.
+- 🤝 I’m looking for help in building Web Development projects.
+- 💬 Ask me about anything, I'd love to help you if I can.
 - 📫 How to reach me: **priyapragya0710@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
